@@ -4,9 +4,13 @@
 #include <iostream>
 using namespace std;
 
-
+void fun1(int x, int y)
+{
+    cout << x + y << endl;
+}
 int main()
 {
     cout << "Bananas" << endl;
+    fun1(50, 20);
 }
 
