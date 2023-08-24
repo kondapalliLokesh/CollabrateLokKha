@@ -9,9 +9,6 @@ int main()
 {
     cout << "Bananas" << endl;
     cout << "Apples " << endl;
-    cout << "mangoes" << endl;
-
-    +++++++
 
 }
 
